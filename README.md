@@ -11,13 +11,9 @@
 ##  技术栈
 
 - **语言**：Python, SQL  
-- **后端框架**：FastAPI, Flask  
+- **后端框架**：FastAPI, django  
 - **数据处理**：Pandas, NumPy  
 - **数据库**：MySQL, SQLite  
 - **工具 & 其他**：Git, GitHub Actions, Docker（基础）
 
 ---
-
-##  代表项目
-
-# Kinny-Chen

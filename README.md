@@ -18,7 +18,7 @@
 
 ---
 ##  项目
-- **Job-Insights 数据管理系统** | FastAPI + SQLModel + SQLite |轻量级 API 服务，可作为后续数据爬虫和可视化分析的后端支撑。
+#Job-Insights 数据管理系统 | FastAPI + SQLModel + SQLite |轻量级 API 服务，可作为后续数据爬虫和可视化分析的后端支撑。
 - **背景**：
 个人练习项目，用于管理和分析职位数据，支持对岗位信息的增删改查。
 - **技术要点**：
@@ -27,7 +27,7 @@
 使用 .env 环境变量 管理数据库连接配置，提升安全性与可移植性。
 
 
-- **CityJobs 招聘网站** | Django + SQLite
+#CityJobs 招聘网站 | Django + SQLite
 - **技术要点**：
 使用 Django MVC 框架 实现用户注册、登录、密码加密与校验。
 前端结合 Django 模板，提供职位搜索与列表展示功能。
